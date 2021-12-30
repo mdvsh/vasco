@@ -31,7 +31,7 @@ func root(w http.ResponseWriter, r *http.Request) {
 		fof(w, r)
 		return
 	}
-	fmt.Fprintf(w, "campus buildings location api")
+	fmt.Fprintf(w, "campus buildings location api, available routes: \n\n /src \t /len \t /get?id=<building_id>")
 }
 
 func src(w http.ResponseWriter, r *http.Request) {
