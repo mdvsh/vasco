@@ -1,0 +1,660 @@
+{
+    "COUNT": 131,
+    "DATA": {
+        "400NI": {
+            "area": "Medical Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=400+North+Ingalls+Building+Ann+Arbor+Michigan",
+            "location": "400 North Ingalls Building"
+        },
+        "426NI": {
+            "area": "Medical Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=426+North+Ingalls+Building+Ann+Arbor+Michigan",
+            "location": "426 North Ingalls Building"
+        },
+        "A&AB": {
+            "area": "North Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Art+%26+Architecture+Building+Ann+Arbor+Michigan",
+            "location": "Art & Architecture Building"
+        },
+        "AH": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Angell+Hall+Ann+Arbor+Michigan",
+            "location": "Angell Hall"
+        },
+        "AL": {
+            "area": "North Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Walter+E.+Lay+Automotive+Lab+Ann+Arbor+Michigan",
+            "location": "Walter E. Lay Automotive Lab"
+        },
+        "ALH": {
+            "area": "The Hill Area",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Alice+Lloyd+Hall+Ann+Arbor+Michigan",
+            "location": "Alice Lloyd Hall"
+        },
+        "ARGUS2": {
+            "area": "Ann Arbor, Off Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Argus+Building+II%2C+Television+Center%2C+408+S.+Fourth+Street+Ann+Arbor+Michigan",
+            "location": "Argus Building II, Television Center, 408 S. Fourth Street"
+        },
+        "ARGUS3": {
+            "area": "Ann Arbor, Off Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Argus+Building+III%2C+416+S.+Fourth+Street+Ann+Arbor+Michigan",
+            "location": "Argus Building III, 416 S. Fourth Street"
+        },
+        "ARR": {
+            "area": "Contact Dept or Instructor",
+            "gmap_link": "",
+            "location": "Location to be Arranged"
+        },
+        "BAM HALL": {
+            "area": "North Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Blanch+Anderson+Moore+Hall%2C+School+of+Music+Ann+Arbor+Michigan",
+            "location": "Blanch Anderson Moore Hall, School of Music"
+        },
+        "BELL POOL": {
+            "area": "The Hill Area",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Margaret+Bell+Pool%2C+Central+Campus+Recreation+Building+Ann+Arbor+Michigan",
+            "location": "Margaret Bell Pool, Central Campus Recreation Building"
+        },
+        "BEYST": {
+            "area": "North Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Bob+and+Betty+Beyster+Building+%28formerly+CSE%29+Ann+Arbor+Michigan",
+            "location": "Bob and Betty Beyster Building (formerly CSE)"
+        },
+        "BIOL STAT": {
+            "area": "Pellston, Michigan",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Biological+Station+Pellston+Michigan",
+            "location": "Biological Station"
+        },
+        "BLAU": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Jeff+T+Blau+Hall+Ann+Arbor+Michigan",
+            "location": "Jeff T Blau Hall"
+        },
+        "BMT": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Burton+Memorial+Tower+Ann+Arbor+Michigan",
+            "location": "Burton Memorial Tower"
+        },
+        "BOT GARD": {
+            "area": "Ann Arbor, Off Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Matthaei+Botanical+Gardens%2C+Dixboro+Road+Ann+Arbor+Michigan",
+            "location": "Matthaei Botanical Gardens, Dixboro Road"
+        },
+        "BSB": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Biological+Science+Building+Ann+Arbor+Michigan",
+            "location": "Biological Science Building"
+        },
+        "BSRB": {
+            "area": "Medical Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Biomedical+Science+Research+Building+Ann+Arbor+Michigan",
+            "location": "Biomedical Science Research Building"
+        },
+        "BURS": {
+            "area": "North Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Bursley+Hall+Ann+Arbor+Michigan",
+            "location": "Bursley Hall"
+        },
+        "BUS": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Business+Administration+Ann+Arbor+Michigan",
+            "location": "Business Administration"
+        },
+        "CAMP DAVIS": {
+            "area": "Jackson Hole, Wyoming",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Camp+Davis+Jackson+Hole+Wyoming",
+            "location": "Camp Davis"
+        },
+        "CCCB": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Central+Campus+Classroom+Bldg+Ann+Arbor+Michigan",
+            "location": "Central Campus Classroom Bldg"
+        },
+        "CCRB": {
+            "area": "The Hill Area",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Central+Campus+Recreation+Building+Ann+Arbor+Michigan",
+            "location": "Central Campus Recreation Building"
+        },
+        "CCSB": {
+            "area": "Ross Athletic Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Campus+Safety+Services+Building%2C+1239+Kipke+Dr.+Ann+Arbor+Michigan",
+            "location": "Campus Safety Services Building, 1239 Kipke Dr."
+        },
+        "CHEM": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Chemistry+Building+Ann+Arbor+Michigan",
+            "location": "Chemistry Building"
+        },
+        "CHRYS": {
+            "area": "North Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Chrysler+Center+Ann+Arbor+Michigan",
+            "location": "Chrysler Center"
+        },
+        "COMM PARK": {
+            "area": "Dearborn, Michigan",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Commerce+Park+Dearborn+Michigan",
+            "location": "Commerce Park"
+        },
+        "COOL": {
+            "area": "North Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Cooley+Building+Ann+Arbor+Michigan",
+            "location": "Cooley Building"
+        },
+        "COUZENS": {
+            "area": "The Hill Area",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Couzens+Hall+Ann+Arbor+Michigan",
+            "location": "Couzens Hall"
+        },
+        "CPH": {
+            "area": "Medical Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Children%27s+Psychiatric+Hospital+Ann+Arbor+Michigan",
+            "location": "Children's Psychiatric Hospital"
+        },
+        "CRISLER": {
+            "area": "Ross Athletic Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Crisler+Center+Ann+Arbor+Michigan",
+            "location": "Crisler Center"
+        },
+        "CSRB": {
+            "area": "North Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Climate+and+Space+Research+Building+%28formerly+Space+Research+Building%29+Ann+Arbor+Michigan",
+            "location": "Climate and Space Research Building (formerly Space Research Building)"
+        },
+        "DANA": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Dana+Building+%28School+of+Environment+%26+Sustainability%29+Ann+Arbor+Michigan",
+            "location": "Dana Building (School of Environment & Sustainability)"
+        },
+        "DANCE": {
+            "area": "North Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Dance+Building+Ann+Arbor+Michigan",
+            "location": "Dance Building"
+        },
+        "DC": {
+            "area": "North Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Duderstadt+Center+Ann+Arbor+Michigan",
+            "location": "Duderstadt Center"
+        },
+        "DENT": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Dental+Building+Ann+Arbor+Michigan",
+            "location": "Dental Building"
+        },
+        "DOW": {
+            "area": "North Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Dow+Engineering+Building+Ann+Arbor+Michigan",
+            "location": "Dow Engineering Building"
+        },
+        "E-BUS": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Executive+Education+Ann+Arbor+Michigan",
+            "location": "Executive Education"
+        },
+        "EECS": {
+            "area": "North Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Electrical+Engineering+and+Computer+Science+Building+Ann+Arbor+Michigan",
+            "location": "Electrical Engineering and Computer Science Building"
+        },
+        "EH": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=East+Hall+Ann+Arbor+Michigan",
+            "location": "East Hall"
+        },
+        "EQ": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=East+Quadrangle+Ann+Arbor+Michigan",
+            "location": "East Quadrangle"
+        },
+        "ERB1": {
+            "area": "North Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Engineering+Research+Building+1+Ann+Arbor+Michigan",
+            "location": "Engineering Research Building 1"
+        },
+        "ERB2": {
+            "area": "North Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Engineering+Research+Building+2+Ann+Arbor+Michigan",
+            "location": "Engineering Research Building 2"
+        },
+        "EWRE": {
+            "area": "North Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Environmental+%26+Water+Resources+Engineering+Building+Ann+Arbor+Michigan",
+            "location": "Environmental & Water Resources Engineering Building"
+        },
+        "FA CAMP": {
+            "area": "Pinckney, Michigan",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Fresh+Air+Camp%2C+Pinckney+Pinckney+Michigan",
+            "location": "Fresh Air Camp, Pinckney"
+        },
+        "FMCRB": {
+            "area": "North Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Ford+Motor+Company+Robotics+Building+Ann+Arbor+Michigan",
+            "location": "Ford Motor Company Robotics Building"
+        },
+        "FORD LIB": {
+            "area": "North Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Ford+Library+Ann+Arbor+Michigan",
+            "location": "Ford Library"
+        },
+        "FXB": {
+            "area": "North Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Francois-Xavier+Bagnoud+Building+Ann+Arbor+Michigan",
+            "location": "Francois-Xavier Bagnoud Building"
+        },
+        "GFL": {
+            "area": "North Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Gorguze+Family+Laboratory+%28formerly+EPB%29+Ann+Arbor+Michigan",
+            "location": "Gorguze Family Laboratory (formerly EPB)"
+        },
+        "GGBL": {
+            "area": "North Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=G.+G.+Brown+Laboratory+Ann+Arbor+Michigan",
+            "location": "G. G. Brown Laboratory"
+        },
+        "GLIBN": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Harlan+Hatcher+Graduate+Library%2C+North+Ann+Arbor+Michigan",
+            "location": "Harlan Hatcher Graduate Library, North"
+        },
+        "HH": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Haven+Hall+Ann+Arbor+Michigan",
+            "location": "Haven Hall"
+        },
+        "HUTCH": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Hutchins+Hall+Ann+Arbor+Michigan",
+            "location": "Hutchins Hall"
+        },
+        "IM POOL": {
+            "area": "Ross Athletic Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Intramural+Building+Ann+Arbor+Michigan",
+            "location": "Intramural Building"
+        },
+        "IOE": {
+            "area": "North Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Industrial+and+Operations+Engineering+Building+Ann+Arbor+Michigan",
+            "location": "Industrial and Operations Engineering Building"
+        },
+        "ISR": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Institute+for+Social+Research+Ann+Arbor+Michigan",
+            "location": "Institute for Social Research"
+        },
+        "JEFFRIES": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Jeffries+Hall%2C+Law+School+Ann+Arbor+Michigan",
+            "location": "Jeffries Hall, Law School"
+        },
+        "K-BUS": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Kresge+Library+Ann+Arbor+Michigan",
+            "location": "Kresge Library"
+        },
+        "KEC": {
+            "area": "Medical Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Kellogg+Eye+Center+Ann+Arbor+Michigan",
+            "location": "Kellogg Eye Center"
+        },
+        "KEENE THTR EQ": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Keene+Theater%2C+Residential+College%2C+East+Quadrangle+Ann+Arbor+Michigan",
+            "location": "Keene Theater, Residential College, East Quadrangle"
+        },
+        "KELSEY": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Kelsey+Museum+of+Archaeology+Ann+Arbor+Michigan",
+            "location": "Kelsey Museum of Archaeology"
+        },
+        "KHRI": {
+            "area": "Medical Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Kresge+Hearing+Research+Institute+Ann+Arbor+Michigan",
+            "location": "Kresge Hearing Research Institute"
+        },
+        "LANE": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Lane+Hall+Ann+Arbor+Michigan",
+            "location": "Lane Hall"
+        },
+        "LBME": {
+            "area": "North Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Lurie+Biomedical+Engineering+Building+Ann+Arbor+Michigan",
+            "location": "Lurie Biomedical Engineering Building"
+        },
+        "LEAG": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Michigan+League+Ann+Arbor+Michigan",
+            "location": "Michigan League"
+        },
+        "LEC": {
+            "area": "North Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Lurie+Engineering+Center+Ann+Arbor+Michigan",
+            "location": "Lurie Engineering Center"
+        },
+        "LLIB": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Law+Library+Ann+Arbor+Michigan",
+            "location": "Law Library"
+        },
+        "LORCH": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Lorch+Hall+Ann+Arbor+Michigan",
+            "location": "Lorch Hall"
+        },
+        "LSA": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Literature%2C+Science%2C+and+the+Arts+Building+Ann+Arbor+Michigan",
+            "location": "Literature, Science, and the Arts Building"
+        },
+        "LSI": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Life+Sciences+Institute+Ann+Arbor+Michigan",
+            "location": "Life Sciences Institute"
+        },
+        "MARKLEY": {
+            "area": "The Hill Area",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Mary+Markley+Hall+Ann+Arbor+Michigan",
+            "location": "Mary Markley Hall"
+        },
+        "MAX KADE": {
+            "area": "Ann Arbor, Off Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Max+Kade+House%2C+627+Oxford+Street+Ann+Arbor+Michigan",
+            "location": "Max Kade House, 627 Oxford Street"
+        },
+        "MH": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Mason+Hall+Ann+Arbor+Michigan",
+            "location": "Mason Hall"
+        },
+        "MHRI": {
+            "area": "Medical Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Mental+Health+Research+Institute+Ann+Arbor+Michigan",
+            "location": "Mental Health Research Institute"
+        },
+        "MLB": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Modern+Languages+Building+Ann+Arbor+Michigan",
+            "location": "Modern Languages Building"
+        },
+        "MONREOCTY HD": {
+            "area": "Monroe, Michigan",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Monroe+County+Health+Department+Monroe+Michigan",
+            "location": "Monroe County Health Department"
+        },
+        "MOSHER": {
+            "area": "The Hill Area",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Mosher+Jordan+Hall+Ann+Arbor+Michigan",
+            "location": "Mosher Jordan Hall"
+        },
+        "MOTT": {
+            "area": "Medical Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=C.+S.+Mott+Children%27s+Hospital+Ann+Arbor+Michigan",
+            "location": "C. S. Mott Children's Hospital"
+        },
+        "MSC1": {
+            "area": "Medical Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Medical+Science%2C+Building+I+Ann+Arbor+Michigan",
+            "location": "Medical Science, Building I"
+        },
+        "MSC2": {
+            "area": "Medical Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Medical+Science%2C+Building+II+Ann+Arbor+Michigan",
+            "location": "Medical Science, Building II"
+        },
+        "MSRB3": {
+            "area": "Medical Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Medical+Science+Research%2C+Building+III+Ann+Arbor+Michigan",
+            "location": "Medical Science Research, Building III"
+        },
+        "NAME": {
+            "area": "North Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Naval+Architecture+and+Marine+Engineering+Building+Ann+Arbor+Michigan",
+            "location": "Naval Architecture and Marine Engineering Building"
+        },
+        "NCRB": {
+            "area": "North Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=North+Campus+Recreation+Building+Ann+Arbor+Michigan",
+            "location": "North Campus Recreation Building"
+        },
+        "NCRC": {
+            "area": "North Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=North+Campus+Research+Complex+Ann+Arbor+Michigan",
+            "location": "North Campus Research Complex"
+        },
+        "NIB": {
+            "area": "Medical Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=300+North+Ingalls+Building+Ann+Arbor+Michigan",
+            "location": "300 North Ingalls Building"
+        },
+        "NORTHVILLEPH": {
+            "area": "Northville, Michigan",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Northville+State+Hospital+Northville+Michigan",
+            "location": "Northville State Hospital"
+        },
+        "NQ": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=North+Quad+Ann+Arbor+Michigan",
+            "location": "North Quad"
+        },
+        "NUB": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=1100+North+University+Building+Ann+Arbor+Michigan",
+            "location": "1100 North University Building"
+        },
+        "NUCB": {
+            "area": "The Hill Area",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=1310+North+University+Court+Building+Ann+Arbor+Michigan",
+            "location": "1310 North University Court Building"
+        },
+        "PALM": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Palmer+Commons+Ann+Arbor+Michigan",
+            "location": "Palmer Commons"
+        },
+        "PHOENIXLAB": {
+            "area": "North Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Phoenix+Memorial+Laboratory+Ann+Arbor+Michigan",
+            "location": "Phoenix Memorial Laboratory"
+        },
+        "PIER": {
+            "area": "North Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Pierpont+Commons+Ann+Arbor+Michigan",
+            "location": "Pierpont Commons"
+        },
+        "POWER CTR": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Power+Center+for+the+Performing+Arts+Ann+Arbor+Michigan",
+            "location": "Power Center for the Performing Arts"
+        },
+        "R-BUS": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Ross+School+of+Business+Building+Ann+Arbor+Michigan",
+            "location": "Ross School of Business Building"
+        },
+        "RACK": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Horace+H.+Rackham%2C+School+of+Graduate+Studies+Ann+Arbor+Michigan",
+            "location": "Horace H. Rackham, School of Graduate Studies"
+        },
+        "RAND": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Randall+Laboratory+Ann+Arbor+Michigan",
+            "location": "Randall Laboratory"
+        },
+        "REVELLI": {
+            "area": "Ross Athletic Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=William+D.+Revelli+Hall+Ann+Arbor+Michigan",
+            "location": "William D. Revelli Hall"
+        },
+        "ROSS AC": {
+            "area": "Ross Athletic Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Stephen+M.+Ross+Academic+Center+Ann+Arbor+Michigan",
+            "location": "Stephen M. Ross Academic Center"
+        },
+        "RUTHVEN": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=A.+G.+Ruthven+Museums+Building+Ann+Arbor+Michigan",
+            "location": "A. G. Ruthven Museums Building"
+        },
+        "SCHEM": {
+            "area": "Ross Athletic Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Glenn+E.+Schembechler+Hall+Ann+Arbor+Michigan",
+            "location": "Glenn E. Schembechler Hall"
+        },
+        "SEB": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=School+of+Education+Building+Ann+Arbor+Michigan",
+            "location": "School of Education Building"
+        },
+        "SHAPIRO": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Shapiro+Undergraduate+Library+Ann+Arbor+Michigan",
+            "location": "Shapiro Undergraduate Library"
+        },
+        "SKB": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=School+of+Kinesiology+Building+%28formerly+the+Kraus+Building%29+Ann+Arbor+Michigan",
+            "location": "School of Kinesiology Building (formerly the Kraus Building)"
+        },
+        "SM": {
+            "area": "North Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Earl+V.+Moore+Building%2C+School+of+Music+Ann+Arbor+Michigan",
+            "location": "Earl V. Moore Building, School of Music"
+        },
+        "SPH1": {
+            "area": "The Hill Area",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Henry+Vaughan+Building%2C+School+of+Public+Health+I+Ann+Arbor+Michigan",
+            "location": "Henry Vaughan Building, School of Public Health I"
+        },
+        "SPH2": {
+            "area": "The Hill Area",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Thomas+Francis%2C+Jr+Building%2C+School+of+Public+Health+II+Ann+Arbor+Michigan",
+            "location": "Thomas Francis, Jr Building, School of Public Health II"
+        },
+        "SSWB": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=School+of+Social+Work+Building+Ann+Arbor+Michigan",
+            "location": "School of Social Work Building"
+        },
+        "STAMPS": {
+            "area": "North Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Stamps+Auditorium+Ann+Arbor+Michigan",
+            "location": "Stamps Auditorium"
+        },
+        "STB": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=202+South+Thayer+Building+Ann+Arbor+Michigan",
+            "location": "202 South Thayer Building"
+        },
+        "STJOSEPH HOSP": {
+            "area": "Ann Arbor, Off Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=St.+Joseph+Mercy+Hospital+Ann+Arbor+Michigan",
+            "location": "St. Joseph Mercy Hospital"
+        },
+        "STOCKWELL": {
+            "area": "The Hill Area",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Stockwell+Hall+Ann+Arbor+Michigan",
+            "location": "Stockwell Hall"
+        },
+        "STRNS": {
+            "area": "North Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Sterns+Building+Ann+Arbor+Michigan",
+            "location": "Sterns Building"
+        },
+        "T&TB": {
+            "area": "Ross Athletic Campus - South Complex",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Track+%26+Tennis+Building+Ann+Arbor+Michigan",
+            "location": "Track & Tennis Building"
+        },
+        "TAP": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Tappan+Hall+Ann+Arbor+Michigan",
+            "location": "Tappan Hall"
+        },
+        "THSL": {
+            "area": "Medical Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Taubman+Health+Science+Library+Ann+Arbor+Michigan",
+            "location": "Taubman Health Science Library"
+        },
+        "TISCH": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Tisch+Hall+Ann+Arbor+Michigan",
+            "location": "Tisch Hall"
+        },
+        "TMC": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Trotter+Multicultural+Center%2C+428+S.+State+St+Ann+Arbor+Michigan",
+            "location": "Trotter Multicultural Center, 428 S. State St"
+        },
+        "UM HOSP": {
+            "area": "Medical Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=University+Hospital+Ann+Arbor+Michigan",
+            "location": "University Hospital"
+        },
+        "UMMA": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=University+of+Michigan+Museum+of+Art+%28Alumni+Memorial+Hall%29+Ann+Arbor+Michigan",
+            "location": "University of Michigan Museum of Art (Alumni Memorial Hall)"
+        },
+        "UNION": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Michigan+Union+Ann+Arbor+Michigan",
+            "location": "Michigan Union"
+        },
+        "USB": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Undergraduate+Science+Building+Ann+Arbor+Michigan",
+            "location": "Undergraduate Science Building"
+        },
+        "UTOWER": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=University+Towers%2C+1225+S.+University+Ann+Arbor+Michigan",
+            "location": "University Towers, 1225 S. University"
+        },
+        "VETERANSHOSP": {
+            "area": "Ann Arbor, Off Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Veterans+Administration+Hospital+Ann+Arbor+Michigan",
+            "location": "Veterans Administration Hospital"
+        },
+        "W-BUS": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Wyly+Hall+Ann+Arbor+Michigan",
+            "location": "Wyly Hall"
+        },
+        "WASHCTY HD": {
+            "area": "Ann Arbor, Off Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Washtenaw+County+Health+Department+Ann+Arbor+Michigan",
+            "location": "Washtenaw County Health Department"
+        },
+        "WDC": {
+            "area": "North Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Charles+R.+Walgreen%2C+Jr.+Drama+Center+Ann+Arbor+Michigan",
+            "location": "Charles R. Walgreen, Jr. Drama Center"
+        },
+        "WEILL": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Joan+and+Sanford+Weill+Hall+Ann+Arbor+Michigan",
+            "location": "Joan and Sanford Weill Hall"
+        },
+        "WEIS": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Weiser+Hall+Ann+Arbor+Michigan",
+            "location": "Weiser Hall"
+        },
+        "WH": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=West+Hall+Ann+Arbor+Michigan",
+            "location": "West Hall"
+        },
+        "WOMEN'S HOSP": {
+            "area": "Medical Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=Women%27s+Hospital+Ann+Arbor+Michigan",
+            "location": "Women's Hospital"
+        },
+        "WQ": {
+            "area": "Central Campus",
+            "gmap_link": "https://www.google.com/maps/search/?api=1&query=West+Quad+Ann+Arbor+Michigan",
+            "location": "West Quad"
+        }
+    }
+}
