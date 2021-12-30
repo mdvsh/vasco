@@ -1,6 +1,10 @@
-## campus locations api
+## vasco
 
-> *todo*
+> campus building and location api
+
+to be further used in another project involving maps, wolverine access and calendar :^)
+
+go is fun
 
 ---
 
@@ -11,4 +15,5 @@
 
 *server side*
 - [x] try go for server this time
-- [ ] trigger updation using actions
+- [x] ~~trigger updation using actions~~
+- [x] deploy
