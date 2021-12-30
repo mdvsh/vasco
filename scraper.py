@@ -31,15 +31,16 @@ def seed(data):
             arr_of_locns.append(elem.text)
 
     # clean the array and make dict
-    building_data = {"COUNT": len(arr_of_locns), "DATA": {}}
+    building_data = {"COUNT": len(arr_of_locns), "DATA": []}
     for build_data in arr_of_locns:
         data = build_data.split("\n")
         properties = {
+            "key": data[0],
             "location": data[1],
             "area": data[2],
             "gmap_link": make_gmap_link(data[1], data[2]) if data[0] != "ARR" else "",
         }
-        building_data["DATA"][data[0]] = properties
+        building_data["DATA"].append(properties)
     print("Successfully seeded and parsed data")
     return building_data
 
@@ -51,7 +52,7 @@ def save(building_data):
     """
     try:
         with open(os.path.join(os.getcwd(), "data", "buildings.json"), "w") as f:
-            json.dump(building_data, f, indent=4, sort_keys=True)
+            json.dump(building_data, f, indent=4)
     except IOError as e:
         print("Error saving data: ", e.reason)
         sys.exit(1)

@@ -8,8 +8,7 @@
 - [x] rough scrape
 - [x] structure script, make modular and add error handling 
 - [x] proper scrape with gmaps encoded links
-- [ ] setup for github actions, trigger using webhook
 
 *server side*
-- [ ] setup simple go graphql server for serving data
+- [x] try go for server this time
 - [ ] trigger updation using actions
